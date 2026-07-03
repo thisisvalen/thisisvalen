@@ -6,9 +6,9 @@ Me apasiona crear videojuegos que desafíen las expectativas mecánicas y estét
 
 🛠️ Mis herramientas y tecnologías:
 
-* • Motores: Unity.
-* • Lenguajes y Web: C#, JavaScript, JAVA, Typescript.
-* • Control de Versiones & Gestión: Git, GitHub, Metodologías Ágiles / Project Management.
+* Motores: Unity.
+* Lenguajes y Web: C#, entre otros.
+* Control de Versiones & Gestión: Git, GitHub, Metodologías Ágiles / Project Management.
 
 Estoy lista para dar el salto, colaborar en equipos multidisciplinarios y aportar frescura, organización y código sólido a la industria del gaming. Si buscas a alguien con visión técnica, capacidad de gestión y pasión por los videojuegos.
 
