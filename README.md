@@ -1,6 +1,5 @@
 ## ¡Hola! Mundos virtuales, mecánicas fluidas y narrativas atrapantes: de eso se compone mi día a día. 🕹️
 
-<!--
 Como desarrolladora de videojuegos en formación con el motor Unity, combino mi trasfondo en desarrollo Full-Stack con una sólida base en gestión de proyectos. Esto me permite no solo escribir código C# limpio y estructurado, sino también entender el ciclo de vida completo de un desarrollo, optimizar flujos de trabajo en equipo y priorizar la experiencia del jugador.
 
 Me apasiona crear videojuegos que desafíen las expectativas mecánicas y estéticas, cuidando cada detalle visual y técnico. Siempre estoy buscando la forma de fusionar el arte, la lógica y la optimización para dar vida a proyectos interactivos memorables.
@@ -11,7 +10,8 @@ Me apasiona crear videojuegos que desafíen las expectativas mecánicas y estét
 • Control de Versiones & Gestión: Git, GitHub, Metodologías Ágiles / Project Management.
 
 Estoy lista para dar el salto, colaborar en equipos multidisciplinarios y aportar frescura, organización y código sólido a la industria del gaming. Si buscas a alguien con visión técnica, capacidad de gestión y pasión por los videojuegos, ¡conectemos!
--->
+
+---
 
 ## 🛠 Tecnologías favoritas
 
