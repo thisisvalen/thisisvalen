@@ -1,20 +1,20 @@
-## ¡Hola! Mundos virtuales, mecánicas fluidas y narrativas atrapantes: de eso se compone mi día a día. 🕹️
+## Hello! Virtual worlds, fluid mechanics, and captivating narratives — that's what my days are made of.
 
-Como desarrolladora de videojuegos en formación con el motor Unity, combino mi trasfondo en desarrollo Full-Stack con una sólida base en gestión de proyectos. Esto me permite no solo escribir código C# limpio y estructurado, sino también entender el ciclo de vida completo de un desarrollo, optimizar flujos de trabajo en equipo y priorizar la experiencia del jugador.
+I am a Technical UI/UX Game Designer and Full-Stack Developer. I combine my solid background in Industrial Engineering and Technical Project Management to design intuitive, highly readable, and juicy interfaces in Figma, and program them directly in Unity using C#. I deeply enjoy bridging the gap between artistic vision and clean, optimized code, ensuring a seamless asset-to-engine pipeline.
 
-Me apasiona crear videojuegos que desafíen las expectativas mecánicas y estéticas, cuidando cada detalle visual y técnico. Siempre estoy buscando la forma de fusionar el arte, la lógica y la optimización para dar vida a proyectos interactivos memorables.
+I am passionate about creating games that challenge mechanical and aesthetic expectations, caring for every visual and technical detail. I'm always looking for ways to fuse art, logic, and optimization to bring memorable interactive projects to life.
 
-🛠️ Mis herramientas y tecnologías:
+🛠️ My Tools & Technologies:
 
-* Motores: Unity.
-* Lenguajes y Web: C#, entre otros.
-* Control de Versiones & Gestión: Git, GitHub, Metodologías Ágiles / Project Management.
+* Game Tech & Design: Unity Engine (C#), Figma, UI/UX Design, Visual Hierarchy.
+* Languages & Web: JavaScript, Java, TypeScript, Full-Stack Development Architecture.
+* Version Control & Management: Git, GitHub, Agile Methodologies, Technical Project Management.
 
-Estoy lista para dar el salto, colaborar en equipos multidisciplinarios y aportar frescura, organización y código sólido a la industria del gaming. Si buscas a alguien con visión técnica, capacidad de gestión y pasión por los videojuegos.
+I'm ready to collaborate in multidisciplinary teams, bringing fresh ideas, structure, organization, and solid code to the gaming industry. If you're looking for someone with a strong technical vision, management ability, and a deep passion for games, let's build something amazing together!
 
 ---
 
-## 🛠 Tecnologías favoritas
+## 🛠 Favorite Technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,13 +33,13 @@ Estoy lista para dar el salto, colaborar en equipos multidisciplinarios y aporta
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-👉 **[Ver Portafolio](https://dev-portafolio.lovable.app/)**
+👉 **[View Portfolio](https://dev-portafolio.lovable.app/)**
 
 ---
 
-## 📫 Contáctame
+## 📫 Contact
 
 * 💼 **[LinkedIn](https://www.linkedin.com/in/thisisvalen/)**
-* ✉️ **[Correo](valencastrillon2@gmail.com)**
+* ✉️ **[Email](valencastrillon2@gmail.com)**
